@@ -1,0 +1,93 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 000B-EAD1
+E:.
+│  index.html
+│  list.txt
+│  README
+│  
+├─css
+│      homecss.css
+│      
+├─html
+├─images
+│      20181207191144.jpg
+│      
+├─js
+│      homejs.js
+│      
+├─myblog
+│  │  favicon.ico
+│  │  indexblog.html
+│  │  manifest.json
+│  │  precache-manifest.1932f2bc820da5171105bc090d1a4fce.js
+│  │  precache-manifest.259dd0b998250a721305f17fb1d64606.js
+│  │  precache-manifest.c25e633f4d8d8d4fa49cb45154e4218d.js
+│  │  robots.txt
+│  │  service-worker.js
+│  │  
+│  ├─css
+│  │      app.2ee129ab.css
+│  │      app.78aac782.css
+│  │      app.f2e356f3.css
+│  │      
+│  ├─img
+│  │  └─icons
+│  │          android-chrome-192x192.png
+│  │          android-chrome-512x512.png
+│  │          apple-touch-icon-120x120.png
+│  │          apple-touch-icon-152x152.png
+│  │          apple-touch-icon-180x180.png
+│  │          apple-touch-icon-60x60.png
+│  │          apple-touch-icon-76x76.png
+│  │          apple-touch-icon.png
+│  │          favicon-16x16.png
+│  │          favicon-32x32.png
+│  │          msapplication-icon-144x144.png
+│  │          mstile-150x150.png
+│  │          safari-pinned-tab.svg
+│  │          
+│  └─js
+│          app.0d668637.js
+│          app.0d668637.js.map
+│          app.1ede8aaf.js
+│          app.1ede8aaf.js.map
+│          app.cb623f93.js
+│          app.cb623f93.js.map
+│          chunk-vendors.9e9cfb3b.js
+│          chunk-vendors.9e9cfb3b.js.map
+│          
+└─xueyou
+    │  about.html
+    │  contact.html
+    │  indexyou.html
+    │  live.html
+    │  photos.html
+    │  submit.html
+    │  template.html
+    │  
+    ├─images
+    │  │  frame.gif
+    │  │  placeholder.gif
+    │  │  slideshow.jpg
+    │  │  江哥最爱的歌.mp3
+    │  │  
+    │  └─photos
+    │          bassist.jpg
+    │          concert.jpg
+    │          crowd.jpg
+    │          guitarist.jpg
+    │          thumbnail_bassist.jpg
+    │          thumbnail_concert.jpg
+    │          thumbnail_crowd.jpg
+    │          thumbnail_guitarist.jpg
+    │          
+    ├─scripts
+    │      global.js
+    │      modernizr.custom.30157.js
+    │      
+    └─styles
+            basic.css
+            color.css
+            layont.css
+            typography.css
+            

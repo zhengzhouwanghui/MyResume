@@ -5,11 +5,18 @@ list-style: none;}
 body{
     background-color: #e0e0e0;
     color: #ffffff;
+    
 }
 .container{
     width: 65%;
-    margin: 10px 17.5%;
-    background-color: #eee;}
+    position: relative;
+    margin: 10px auto;
+    /* box-shadow: 2px 2px 5px  rgba(0,0,0,0.14), -2px -2px 5px  rgba(0,0,0,0.2);  */
+    box-shadow: 2px 2px 5px  #888888,-2px -2px 5px  #888888;
+    /* border-radius: 4px; */
+    background-color: #eee;
+    height: 1000px;
+}
 .left{
     width: 30%;
     height: 1000px;
@@ -40,7 +47,7 @@ body{
     color:#9f3;}
 .left .left-button dd{
     line-height: 30px;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 .left .left-button dd a{
     text-decoration: none;
@@ -48,7 +55,7 @@ body{
 }
 .right{
     width: 70%;
-    height: 1000px;
+    /* height: 1000px; */
     padding: 10px;
     box-sizing: border-box;
     float: right;
@@ -155,10 +162,11 @@ body{
 #relationWay dd{
     line-height: 30px;
 }
-/*
-#relation:hover{
+
+
+/* #relation:hover{
     left: 200px;
-}
-#relation:hover #relationWay{
+} */
+/* #relation:hover #relationWay{
     display: block;
-}*/
+} */
